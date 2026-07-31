@@ -1,1 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Logs
+*.log
+logs/
+
+# Alembic
+*.sqlite3
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Coverage
+.coverage.*
+coverage.xml
+
+# Cache
+.cache/
+
+# Temporary
+*.tmp
+*.temp
